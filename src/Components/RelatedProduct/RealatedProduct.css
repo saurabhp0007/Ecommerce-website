@@ -1,0 +1,24 @@
+.relatedproduct-items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.relatedproduct h1{
+     
+     padding: 20px;
+
+}
+.relatedproduct hr{
+    width: 200px;
+    height: 6px;
+    border-radius: 10px;
+    background: #252525;
+}
+.relatedproduct{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  
+}
